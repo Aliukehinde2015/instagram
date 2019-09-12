@@ -1,0 +1,29 @@
+@charset "utf-8";
+body {
+    font-family: georgia, serif;
+    font-size: 100%;
+    background: whitesmoke; 
+    text-align: center
+}
+h1 {
+    text-align: center;
+
+
+}
+a: link, a:visited { color: cadetblue}
+a:focus, a:hover, a:active { color: cadetblue}
+
+
+p {
+    text-align: center
+}
+blockquote {
+    text-align: center;
+    text-transform: uppercase;
+    b: 1em;
+    border: 5em;
+    border 
+    
+}
+
+#sublg: 
